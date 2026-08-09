@@ -11,3 +11,5 @@ pypdf
 chromadb
 streamlit
 python-dotenv
+langchain
+llama3
