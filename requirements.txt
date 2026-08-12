@@ -8,8 +8,14 @@ google.generativeai
 transformers
 sentence-transformers
 pypdf
+tourch
+tourchvision
 chromadb
 streamlit
 python-dotenv
 langchain
-llama3
+langchain-community
+langchain-google-genai
+langchain-huggingface
+ollama
+langchain-ollama

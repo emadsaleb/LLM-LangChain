@@ -24,5 +24,3 @@ def ask_gemini(question, context):
 
 
 
-def load_llm():
-    return gemini_model
